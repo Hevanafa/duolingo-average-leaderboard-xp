@@ -1,1 +1,1 @@
-document.getElementById("average-xp");
+console.log("Average XP extension started!");
